@@ -9,10 +9,6 @@ Petit projet pour tester la fonction map, random et le translate en CSS. Mauvais
 
 ### Le resultat :
 
-<p align="center">
-    <a href= "https://kevinozkaraca.github.io/Test_Javascript/">  Cliquer ici pour voir le site </a>
-</p>
-
 La démonstrastion en image :
 
 <p align="center">
