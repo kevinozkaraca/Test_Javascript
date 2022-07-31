@@ -15,12 +15,13 @@ Petit projet pour tester la fonction map, random et le translate en CSS. Mauvais
 
 La démonstrastion en image :
 
+<p align="center">
 <img 
             class="IMGlink"
             src="demo.gif"
             alt="demonstration e gif"
             aria-label="demonstration e gif"
-            width= 90%
+            width= 95%
         />
 
 </p>
